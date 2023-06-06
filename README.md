@@ -1,4 +1,4 @@
-# To-Do-list
+
 # To-Do List App
 
 This is a simple To-Do List app built using HTML, CSS, and JavaScript. It allows  to keep track of our tasks and manage them effectively.
@@ -17,7 +17,7 @@ This is a simple To-Do List app built using HTML, CSS, and JavaScript. It allows
 
 ## Usage
 
-1. Open the `index.html` file in your web browser.
+1. Open the `index.html` file in  web browser.
 2. we will see an input field where we can enter our task.
 3.  click the "Add" button to add the task to our to-do list.
 4. To mark a task as completed, click the checkbox next to it.
