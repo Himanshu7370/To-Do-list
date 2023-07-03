@@ -11,7 +11,7 @@ This is a simple To-Do List app built using HTML, CSS, and JavaScript. It allows
 - Save tasks: The app saves  tasks locally, so we don't lose our progress when  close the browser.
 
 ## Installation
-1.Open the link https://himanshu7370.github.io/To-Do-list/
+1.Open the link https://himanshu7370.github.io/To-Do-list
 2. Clone the repository .
 3. Open the project folder in  preferred code editor.
 
