@@ -12,8 +12,6 @@ This is a simple To-Do List app built using HTML, CSS, and JavaScript. It allows
 
 ## Installation
 1.Open the link https://himanshu7370.github.io/To-Do-list
-2. Clone the repository .
-3. Open the project folder in  preferred code editor.
 
 ## Usage
 
